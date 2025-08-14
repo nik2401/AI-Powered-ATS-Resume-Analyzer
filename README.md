@@ -7,7 +7,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 <div align="center">
-  <img src="https://your-image-url.com/ats-demo.gif" alt="ATS Analyzer Demo" width="600"/>
+  <img src="https://github.com/nik2401/AI-Powered-ATS-Resume-Analyzer/blob/main/ai_analyzzer.png" alt="ATS Analyzer Demo" width="600"/>
 </div>
 
 ## 🎯 What is this?
