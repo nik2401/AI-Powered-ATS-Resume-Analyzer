@@ -2,7 +2,7 @@
 
 > **AI-Powered Resume Optimization Tool** that analyzes your resume like Fortune 500 companies do!
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -37,7 +37,7 @@ Ever wondered why your resume gets rejected before reaching human eyes? **70% of
 ### Prerequisites
 
 ```bash
-# Python 3.8 or higher
+# Python 3.10 or higher
 python --version
 
 # pip package manager
@@ -48,7 +48,7 @@ pip --version
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ats-resume-analyzer.git
+git clone https://github.com/nik2401/AI-Powered-ATS-Resume-Analyzer
 cd ats-resume-analyzer
 
 # Install dependencies
@@ -147,7 +147,7 @@ ats-resume-analyzer/
 │   ├── parser.py              # PDF text extraction
 │   ├── utils.py               # NLP utilities & skill extraction
 │   ├── professional_ats_engine.py  # Core ATS analysis engine
-│   └── main.py               # Application entry point
+│── main.py               # Application entry point
 │
 ├── requirements.txt          # Python dependencies
 ├── README.md                # Project documentation
@@ -156,7 +156,7 @@ ats-resume-analyzer/
 
 ### Core Technologies
 
-- **🐍 Python 3.8+**: Main programming language
+- **🐍 Python 3.10+**: Main programming language
 - **🧠 spaCy**: Advanced natural language processing
 - **🎯 scikit-learn**: Machine learning algorithms
 - **📊 SentenceTransformers**: Semantic text analysis
@@ -288,9 +288,8 @@ No tool can guarantee interviews, but optimizing for ATS significantly increases
 ## 📞 Support & Contact
 
 - **📧 Email**: your.email@example.com
-- **💼 LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/ats-resume-analyzer/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/ats-resume-analyzer/discussions)
+- **💼 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhil-badoni1/)
+- **🐛 Issues**: [GitHub Issues](https://github.com/nik2401/AI-Powered-ATS-Resume-Analyzer/issues)
 
 ## 📄 License
 

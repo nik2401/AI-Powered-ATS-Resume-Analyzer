@@ -1,0 +1,29 @@
+# Core Dependencies
+pymupdf==1.23.14
+spacy==3.7.2
+scikit-learn==1.3.2
+sentence-transformers==2.2.2
+skillner==1.0.5
+pandas==2.1.4
+numpy==1.24.4
+
+# NLP and Text Processing
+nltk==3.8.1
+
+# Additional utilities
+python-dateutil==2.8.2
+regex==2023.10.3
+
+# Optional: For enhanced features
+plotly==5.17.0  # For potential visualization features
+matplotlib==3.8.2  # For plotting capabilities
+
+# Development Dependencies (Optional - for contributors)
+pytest==7.4.3
+black==23.11.0  
+flake8==6.1.0
+pre-commit==3.6.0
+
+# Note: After installation, run the following commands:
+# python -m spacy download en_core_web_lg
+# python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
