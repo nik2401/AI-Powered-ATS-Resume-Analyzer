@@ -287,7 +287,7 @@ No tool can guarantee interviews, but optimizing for ATS significantly increases
 
 ## 📞 Support & Contact
 
-- **📧 Email**: your.email@example.com
+- **📧 Email**: nikhilbadoni123@gmail.com
 - **💼 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhil-badoni1/)
 - **🐛 Issues**: [GitHub Issues](https://github.com/nik2401/AI-Powered-ATS-Resume-Analyzer/issues)
 
